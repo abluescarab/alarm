@@ -1,0 +1,18 @@
+2.0.0
+=====
+Date: 2013-12-21
+----------------------------------------------------------
+MAJOR:
+- Updated to C#
+- Added option to disable sound
+- Changed name to "Simple Alarm"
+- Added option for repeating alarm
+- Message is multiline
+- Removed Exit button
+
+MINOR:
+- Made window smaller
+- Changed time display format
+- Changed control FlatStyle
+- No longer closes to system tray
+- Changed help file format
